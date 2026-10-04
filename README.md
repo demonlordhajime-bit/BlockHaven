@@ -1,2 +1,6 @@
 # BlockHaven
-A game steel in work made in godot inspired by minecraft
+A game made in godot similar to Minecraft but it ave some 3d stuff without using mods/texture pack.
+
+This is a Game inspired fully on minecraft there is allmost no lag with a budget pc/laptop fps stable 60fps you can ave the rendering at 12 and you won't even feel lag not even lag spikes and this game will ave in the future a forth dimension and not like minecraft that only ave 3 dimension and every 3d model is custom there is no team working on it there is just 1 persone working on it there is steel lots of bugs and am fixing it i ave been working on it for 1Week non stop i don't ave school and i don't ave a job so am mostly just developing this game don't get your hopes up this is my first real project i ave hopes for it and i will make a discord server for this Game only so yall can get updated on the game and i ave a twitch channel for does that want to see what i added and what is coming i will show some picture so yall can see my progress i will add some SOON i ave 2d and 3d mixed in the Game the game o ready ave a singleplayer world and multiplayer is my next goal for now it won't be publish i want to finish what i can first the game ave pig,sheep,cow,chicken,zombie thats all for now hope yall like the game and the Picture i will add of the game
+
+AVE A GOOD DAY EVERYBODY AND THANK YALL FOR READING AND LOOK AT MY GAME EVEN IF IS NOT PUBLISH.
